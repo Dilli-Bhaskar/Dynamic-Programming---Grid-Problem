@@ -7,7 +7,7 @@
 
 
 
-## To Rum
+## To Run
 1. Open terminal and run the following the following command
 ```
 python main_iitm.py 5x5.xlsx
